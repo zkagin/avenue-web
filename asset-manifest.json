@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/avenue-web/static/css/main.c6a2ff8c.chunk.css",
-    "main.js": "/avenue-web/static/js/main.4f753f33.chunk.js",
-    "main.js.map": "/avenue-web/static/js/main.4f753f33.chunk.js.map",
+    "main.js": "/avenue-web/static/js/main.ef196f21.chunk.js",
+    "main.js.map": "/avenue-web/static/js/main.ef196f21.chunk.js.map",
     "runtime~main.js": "/avenue-web/static/js/runtime~main.4da0ec01.js",
     "runtime~main.js.map": "/avenue-web/static/js/runtime~main.4da0ec01.js.map",
-    "static/js/2.c806765c.chunk.js": "/avenue-web/static/js/2.c806765c.chunk.js",
-    "static/js/2.c806765c.chunk.js.map": "/avenue-web/static/js/2.c806765c.chunk.js.map",
+    "static/js/2.19711492.chunk.js": "/avenue-web/static/js/2.19711492.chunk.js",
+    "static/js/2.19711492.chunk.js.map": "/avenue-web/static/js/2.19711492.chunk.js.map",
     "index.html": "/avenue-web/index.html",
-    "precache-manifest.9c01649a4d31821d0b0ab164573500c1.js": "/avenue-web/precache-manifest.9c01649a4d31821d0b0ab164573500c1.js",
+    "precache-manifest.02ae4a6971d89e616ac858e4b9c794e5.js": "/avenue-web/precache-manifest.02ae4a6971d89e616ac858e4b9c794e5.js",
     "service-worker.js": "/avenue-web/service-worker.js",
     "static/css/main.c6a2ff8c.chunk.css.map": "/avenue-web/static/css/main.c6a2ff8c.chunk.css.map"
   }
